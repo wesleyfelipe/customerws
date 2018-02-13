@@ -1,4 +1,4 @@
-package br.dbc.customers.to;
+package br.dbc.customersws.to;
 
 import static org.junit.Assert.assertEquals;
 
