@@ -26,7 +26,7 @@ public class SwaggerConfig {
 	
 	private ApiInfo apiInfo() {
 		  return new ApiInfoBuilder()
-		  .title("Customer service")
+		  .title("Customer services")
 		  .description("A simple REST service made with Spring Boot in Java")
 		  .contact(new Contact("Wesley Felipe", null, "wesleys.felipe@gmail.com"))
 		  .version("1.0")
